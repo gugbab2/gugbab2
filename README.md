@@ -1,3 +1,9 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gugbab2's%20GitHub%20&fontSize=90)
+
+</div>
+	
 ### Introduction
 안녕하세요!🙌 국밥을 사랑하는 백엔드 개발자 전경호입니다.🍚
 - 🌱 '왜?'라는 질문을 통해 어려운 문제를 해결하고, 성장하는 것을 즐깁니다.
@@ -12,8 +18,11 @@
 - Clean code & architecture
 
 <br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gugbab2)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    
+![Gugbab2's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugbab2&show_icons=true&theme=radical)
+    
+</div>
 
 <br/>
 
