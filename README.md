@@ -8,7 +8,7 @@
 <br/>
 
 ### Contact
-  <a href="[https://www.linkedin.com/in/%EC%9A%B0%EC%98%81-%EC%A7%80-9a29961bb/](https://gugbab2.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/Tistory-gray?logo=tistory"/></a>
+  <a href="https://gugbab2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-gray?logo=tistory"/></a>
   <a href="mailto:jkhoo1997@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?logo=Gmail"/></a>
 
 <br/><br/>
