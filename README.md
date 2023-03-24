@@ -30,6 +30,7 @@
 <div align="center">
 <a href="https://gdg.community.dev/gdg-cloud-busan-meetup/" target="_blank"><img src="https://img.shields.io/badge/Community-white?logo=google"/></a>
 <a href="https://gugbab2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-gray?logo=tistory"/></a>
+<a href="https://gugbab2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-gray?logo=git"/></a>
 <a href="mailto:jkhoo1997@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?logo=Gmail"/></a>
 </div>
 <div align="center">
