@@ -13,7 +13,7 @@
 
 <br/>
 
-### Interest
+### Interests
 - OOP
 - Clean code & architecture
 
