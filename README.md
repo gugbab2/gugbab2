@@ -15,7 +15,9 @@
 
 ### Interests
 - OOP
-- Clean code & architecture
+- Game Programming
+- Graphics
+- Metaverse
 
 <br/><br/>
 
