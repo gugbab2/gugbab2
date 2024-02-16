@@ -15,10 +15,10 @@
 
 ### Interests
 - OOP
-- Game Programming
+- Server Programming
 - Graphics
-- Metaverse
-
+- AR
+  
 <br/><br/>
 
 <div align="center">
