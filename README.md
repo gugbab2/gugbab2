@@ -17,7 +17,8 @@
 - OOP
 - Server Programming
 - Graphics
-- AR
+- XR
+- Metaverse
   
 <br/><br/>
 
